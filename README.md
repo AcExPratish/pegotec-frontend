@@ -18,3 +18,5 @@ npm install
 To start the development server, use:
 
 npm run dev
+
+The frontend server will be available via http://localhost:5173 url.
